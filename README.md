@@ -2,9 +2,10 @@
 
 Project written by:
 Mi Thao
+
 Bukola Fatile
 
-Instructions:
+### Instructions
 
 The instructions for this mini project are divided into the following subsections:
 
